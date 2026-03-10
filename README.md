@@ -118,14 +118,7 @@ The longer you survive, the more the battlefield turns into a **bullet-hell surv
 
 # 🛠 Tech Stack
 
-(Add your engine / language here)
-
-Example:
-
 * Unity / C#
-* 2D physics & collision systems
-* Mobile optimized controls
-* Power-up system architecture
 
 ---
 
