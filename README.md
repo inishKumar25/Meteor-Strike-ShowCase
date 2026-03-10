@@ -1,6 +1,6 @@
 # ☄️ Meteor Strike
 
-A fast-paced **2D mobile arcade shooter** where survival is the only objective — and chaos escalates fast.
+A fast-paced **2D PC arcade shooter** where survival is the only objective — and chaos escalates fast.
 
 In **Meteor Strike**, you pilot a spaceship through relentless waves of asteroids while trying to survive a **10-minute challenge mode**. Every **2 minutes**, the difficulty ramps up: asteroids spawn faster, collisions become more dangerous, and the screen fills with debris.
 
