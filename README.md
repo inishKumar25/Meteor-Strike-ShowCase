@@ -14,12 +14,13 @@ https://apexinteractive.itch.io/meteorstrike
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="screenshots/gameplay1.png" width="400"/>
-  <img src="screenshots/gameplay2.png" width="400"/>
+  <img src="screenshots/MS1.png" width="400"/>
+  <img src="screenshots/MS2.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/gameplay3.png" width="400"/>
+  <img src="screenshots/MS3.png" width="400"/>
+  <img src="screenshots/MS4.png" width="400"/>
 </p>
 
 ---
